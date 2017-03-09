@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;MusicDownload&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../mymath" />
+      <root url="file://$PROJECT_DIR$/../mathapp" />
+      <root url="file://$PROJECT_DIR$/../HelloWorld" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../mymath" />
+      <root url="file://$PROJECT_DIR$/../mathapp" />
+      <root url="file://$PROJECT_DIR$/../HelloWorld" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
